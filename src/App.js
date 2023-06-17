@@ -6,6 +6,7 @@ function App() {
     <div className="App">
         <Banner></Banner>
         <Form></Form>
+        
     </div>
   );
 }
